@@ -1,0 +1,24 @@
+# vim noise
+*~
+*.sw?
+
+# emacs noise
+*.#*
+
+# osx noise
+.DS_Store
+profile
+
+# python noise
+__pycache__
+
+# tex output
+*.log
+*.aux
+*.end
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.bbl
+*.blg
+*.fls
